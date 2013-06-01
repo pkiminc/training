@@ -1,0 +1,4 @@
+training
+========
+
+grails training project
